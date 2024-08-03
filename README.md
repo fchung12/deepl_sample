@@ -8,7 +8,7 @@ Encoder and Attention Head<br>
 Decoder<br>
 <img src="./Generator_Decoder.PNG" width=500 height=300 />
 <br>
-Discriminator simple CNN Architecture
+Discriminator CNN Architecture<br>
 <img src="./Discriminator.PNG"/>
 
 Training Loss
