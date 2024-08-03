@@ -12,10 +12,10 @@ Discriminator CNN Architecture<br>
 <img src="./Discriminator.PNG"/>
 
 Training Loss
-<img src="./120epochloss.PNG"/>\
+<img src="./120epochsloss.PNG"/>\
 
 Validation Loss
-<img src="./120epochvalloss.PNG"/>\
+<img src="./120epochsvalloss.PNG"/>\
 
 
 
