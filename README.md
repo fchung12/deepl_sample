@@ -2,8 +2,10 @@
 
 Generator Autoencoder Architecture<br>
 (Embedded input token is a BERT embedding)<br>
+Encoder and Attention Head<br>
 <img src="./Generator_Encoder.PNG" width=500 height=300/>
 <img src="./Generator_Attention.PNG" width=500 height=300/>
+Decoder<br>
 <img src="./Generator_Decoder.PNG" width=500 height=300 />
 <br>
 Discriminator simple CNN Architecture
