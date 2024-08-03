@@ -11,10 +11,10 @@ Decoder<br>
 Discriminator CNN Architecture<br>
 <img src="./Discriminator.PNG"/>
 
-Training Loss
+Training Loss<br>
 <img src="./120epochsloss.PNG"/>\
 
-Validation Loss
+Validation Loss<br>
 <img src="./120epochsvalloss.PNG"/>\
 
 
