@@ -1,13 +1,13 @@
 # CNN Text Summarization trained using GAN
 
-Generator Autoencoder Architecture
-(Embedded input token is a BERT embedding)
-<img src="./Generator_Encoder.PNG" width=500 height=300/>\
-<img src="./Generator_Attention.PNG"/>\
-<img src="./Generator_Decoder.PNG"/>\
-
+Generator Autoencoder Architecture<br>
+(Embedded input token is a BERT embedding)<br>
+<img src="./Generator_Encoder.PNG" width=500 height=300/>
+<img src="./Generator_Attention.PNG" width=500 height=300/>
+<img src="./Generator_Decoder.PNG" width=500 height=300 />
+<br>
 Discriminator simple CNN Architecture
-<img src="./Discriminator.PNG"/>\
+<img src="./Discriminator.PNG"/>
 
 Training Loss
 <img src="./120epochloss.PNG"/>\
