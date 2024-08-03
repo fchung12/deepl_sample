@@ -1,4 +1,4 @@
-# CNN Text Summarization trained using GAN
+# Text Summarization trained using GAN on CNN new dataset
 
 Generator Autoencoder Architecture<br>
 (Embedded input token is a BERT embedding)<br>
